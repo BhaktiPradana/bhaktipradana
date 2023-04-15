@@ -60,5 +60,5 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bhaktipradana/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bhaktipradana/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/bhakti_pradana/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/bhakti_pradana/#gh-dark-mode-only)
