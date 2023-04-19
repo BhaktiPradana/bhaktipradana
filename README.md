@@ -1,18 +1,19 @@
 # Hi there, I'm Bhakti - aka [Bhakti Pradana] 👋
 ## About me:
 - 🔭 I’m currently working at [TEC](https://www.toshiba.com/tai/)
-- 🌱 I’m currently learning Lean Six Sigma, PLC, C++ and Python
-- 👯 I’m looking to collaborate as Data Scientist
+- 🌱 I’m currently learning Software Development, PLC, C++ and Python
+- 📑 Certified Lean Six Sigma Yellow Belt
+- 👯 I’m looking to collaborate as Software Development
 - 🤔 I’m looking for suggest for Automation and Data Scientist
 - 💬 Ask me about anything
 - 📫 How to reach me: bhaktipradana24@gmail.com
 
 ## Education:
-#### 1. [Politeknik Negeri Malang](https://polinema.ac.id) | Bachelor of Electrical Engineering | Malang `2016-2020`
+#### 1. [State Polytechnic of Malang](https://polinema.ac.id) | Bachelor of Electrical Engineering | Malang `2016-2020`
    - Chairman of Student Representative Council 
    - Member of Division Software Robotics Community 
   
- #### 2. [SMK Mambaul Ulum](https://dapo.kemdikbud.go.id/sekolah/B92CD0E0153EBFFB359A) | Automation Industry Engineering | Probolinggo `2013-2016`
+ #### 2. [Vocational High School of Mambaul Ulum](https://dapo.kemdikbud.go.id/sekolah/B92CD0E0153EBFFB359A) | Automation Industry Engineering | Probolinggo `2013-2016`
    - Chief of Student Council
 
 ## Work Experience:
@@ -29,13 +30,14 @@
    - Ensuring that machinery, systems, infrastructure, and equipment run optimally with minimal downtime
 #### 2. [PT. Dynacast International](https://www.dynacast.com/en) | Process Improvement Engineer | Batam `April'2021-2022`
    - Conducting research to develop new and improved processes for manufacturing
+   - Meeting with production managers to assess existing processes.
    - Take leadership of projects in development, managing all team members assigned to projects to keep them moving forward on schedule.
    - Leads and deploys best practices in the manufacturing process by supporting continuous improvement in various manufacturing processes by reducing the tooling
      costs and improving the flow of material and setting up cycle times.
    - Understanding process flow, line balance, automation, and troubleshooting
    - Evaluating processes and equipment to ensure compliance with environmental and safety regulation
    - Provide processes documentation and operating instructions/work instructions
-   - Meeting with production managers to assess existing processes.
+   
 ##### Project :
       - Make a weighing machine automatically to separate parts according to their weight.
       - Make the concept of calculating the lifetime of the cutter on a fine trimming machine.
