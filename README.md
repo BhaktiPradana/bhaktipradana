@@ -42,7 +42,7 @@
       - Make a weighing machine automatically to separate parts according to their weight.
       - Make the concept of calculating the lifetime of the cutter on a fine trimming machine.
       - Make the concept of the degate process which was originally manual into an ultrasonic process and resulting in a more efficient process of lifetime saving
-### This is my Resume : https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/4d91a0e7-cb8c-4214-b273-b2593ea7424b?view=html
+
 ---
 
 ### Languages and Tools:
