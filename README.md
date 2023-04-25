@@ -1,9 +1,9 @@
 # Hi there, I'm Bhakti - aka [Bhakti Pradana] 👋
 ## About me:
-- 🔭 I’m currently working at [TEC](https://www.toshiba.com/tai/)
-- 🌱 I’m currently learning Software Development, PLC, C++ and Python
+- 🔭 I’m currently working at [Continental Automotive Hungary Kft.](https://www.continental.com/hu-hu/)
+- 🌱 I’m currently learning PLC Program, C++ and Python
 - 📑 Certified Lean Six Sigma Yellow Belt
-- 👯 I’m looking to collaborate as Software Development
+- 👯 I’m looking to collaborate as Automation System
 - 🤔 I’m looking for suggest for Automation and Data Scientist
 - 💬 Ask me about anything
 - 📫 How to reach me: bhaktipradana24@gmail.com
@@ -17,26 +17,40 @@
    - Chief of Student Council
 
 ## Work Experience:
-#### 1. [PT. Panasonic Industrial Devices](https://panasonic.jp/) | Maintenance Supervisor | Batam `April'2022 - 2023`
-   - Leading, driving and developing skills Maintenance team. 
-   - Prepare weekly maintenance schedules and allocate work. 
-   - Handles discipline and termination of employees as needed and in accordance with company policy 
-   - Responsible and conduct continuous improvements, quality awareness, productivity, line balancing, efficiency, innovation/development, cost saving, stabilization
-     machine performance.
-   - Design maintenance strategies, procedures, and methods
-   - Control maintenance tools, stores, and equipment
-   - Perform to check and verify evidence machine data checksheet, measure machine capabilities (CPK), ensure the machine operates according to specifications,
-     correlation data of machine Auto Electrical Inspection, take data, and prepare product sample.
-   - Ensuring that machinery, systems, infrastructure, and equipment run optimally with minimal downtime
-#### 2. [PT. Dynacast International](https://www.dynacast.com/en) | Process Improvement Engineer | Batam `April'2021-2022`
-   - Conducting research to develop new and improved processes for manufacturing
-   - Meeting with production managers to assess existing processes.
-   - Take leadership of projects in development, managing all team members assigned to projects to keep them moving forward on schedule.
-   - Leads and deploys best practices in the manufacturing process by supporting continuous improvement in various manufacturing processes by reducing the tooling
-     costs and improving the flow of material and setting up cycle times.
-   - Understanding process flow, line balance, automation, and troubleshooting
-   - Evaluating processes and equipment to ensure compliance with environmental and safety regulation
-   - Provide processes documentation and operating instructions/work instructions
+#### 1. [Continental Automotive Hungary Kft.](https://www.continental.com/hu-hu/) | Specialist PLC Programm | Budapest `April'2023 - Present`
+     - Meeting and knowing the client's requirements for electrical and mechanical needs.  
+     - Designing and drafting 2D and 3D blueprint drawings.  
+     - Reading and interpreting the logical flow diagram.  
+     - Explaining to the clients how electrical components operate.  
+     - Using automation software to write PLC programs.  
+     - Preparing documents to instruct the users how to use the device and other safety instructions.  
+     - Testing the program using automation equipment for its reliability.  
+     - Troubleshooting any faults in the system.  
+     - Supervising the installation of PLC programs.  
+     - Providing guidance and support to the Technicians.  
+     - Offering training to the Technicians and other team members.  
+     - Maintaining the PLC programs.  
+     - Working in coordination with Engineering and Production team.
+#### 2. [PT. Panasonic Industrial Devices](https://panasonic.jp/) | Maintenance Supervisor | Batam `April'2022 - 2023`
+     - Leading, driving and developing skills Maintenance team. 
+     - Prepare weekly maintenance schedules and allocate work. 
+     - Handles discipline and termination of employees as needed and in accordance with company policy 
+     - Responsible and conduct continuous improvements, quality awareness, productivity, line balancing, efficiency, innovation/development, cost saving, stabilization
+       machine performance.
+     - Design maintenance strategies, procedures, and methods
+     - Control maintenance tools, stores, and equipment
+     - Perform to check and verify evidence machine data checksheet, measure machine capabilities (CPK), ensure the machine operates according to specifications,
+       correlation data of machine Auto Electrical Inspection, take data, and prepare product sample.
+     - Ensuring that machinery, systems, infrastructure, and equipment run optimally with minimal downtime
+#### 3. [PT. Dynacast International](https://www.dynacast.com/en) | Process Improvement Engineer | Batam `April'2021-2022`
+     - Conducting research to develop new and improved processes for manufacturing
+     - Meeting with production managers to assess existing processes.
+     - Take leadership of projects in development, managing all team members assigned to projects to keep them moving forward on schedule.
+     - Leads and deploys best practices in the manufacturing process by supporting continuous improvement in various manufacturing processes by reducing the tooling
+       costs and improving the flow of material and setting up cycle times.
+     - Understanding process flow, line balance, automation, and troubleshooting
+     - Evaluating processes and equipment to ensure compliance with environmental and safety regulation
+     - Provide processes documentation and operating instructions/work instructions
    
 ##### Project :
       - Make a weighing machine automatically to separate parts according to their weight.
