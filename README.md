@@ -2,14 +2,16 @@
 ## About me:
 - 🔭 I’m currently working at [Continental Automotive Hungary Kft.](https://www.continental.com/hu-hu/)
 - 🌱 I’m currently learning PLC Program, C++ and Python
-- 📑 Certified Lean Six Sigma Yellow Belt
+- 📑 Certified Lean Six Sigma Green Belt
 - 👯 I’m looking to collaborate as Automation System
 - 🤔 I’m looking for suggest for Automation and Data Scientist
 - 💬 Ask me about anything
 - 📫 How to reach me: bhaktipradana24@gmail.com
 
 ## Education:
-#### 1. [State Polytechnic of Malang](https://polinema.ac.id) | Bachelor of Electrical Engineering | Malang `2016-2020`
+#### 1. [BINUS UNIVERSITY](https://binus.ac.id/) | Master Engineering - Industrial Engineering | Jakarta `2023-2025`
+
+#### 2. [State Polytechnic of Malang](https://polinema.ac.id) | Bachelor of Electrical Engineering | Malang `2016-2020`
    - Chairman of Student Representative Council 
    - Member of Division Software Robotics Community 
   
@@ -17,7 +19,7 @@
    - Chief of Student Council
 
 ## Work Experience:
-#### 1. [Continental Automotive Hungary Kft.](https://www.continental.com/hu-hu/) | Specialist PLC Programm | Budapest `April'2023 - Present`
+#### 1. [Continental Automotive Hungary Kft.](https://www.continental.com/hu-hu/) | Test Automation[ | Budapest `April'2023 - Present`
      - Meeting and knowing the client's requirements for electrical and mechanical needs.  
      - Designing and drafting 2D and 3D blueprint drawings.  
      - Reading and interpreting the logical flow diagram.  
@@ -31,7 +33,7 @@
      - Offering training to the Technicians and other team members.  
      - Maintaining the PLC programs.  
      - Working in coordination with Engineering and Production team.
-#### 2. [PT. Panasonic Industrial Devices](https://panasonic.jp/) | Maintenance Supervisor | Batam `April'2022 - 2023`
+#### 2. [PT. Panasonic Industrial Devices](https://panasonic.jp/) | Maintenance Supervisor - Coil Automotive | Batam `April'2022 - 2023`
      - Leading, driving and developing skills Maintenance team. 
      - Prepare weekly maintenance schedules and allocate work. 
      - Handles discipline and termination of employees as needed and in accordance with company policy 
