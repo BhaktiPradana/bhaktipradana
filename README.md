@@ -20,19 +20,13 @@
 
 ## Work Experience:
 #### 1. [Continental Automotive Hungary Kft.](https://www.continental.com/hu-hu/) | Test Automation[ | Budapest `April'2023 - Present`
-     - Meeting and knowing the client's requirements for electrical and mechanical needs.  
-     - Designing and drafting 2D and 3D blueprint drawings.  
-     - Reading and interpreting the logical flow diagram.  
-     - Explaining to the clients how electrical components operate.  
-     - Using automation software to write PLC programs.  
-     - Preparing documents to instruct the users how to use the device and other safety instructions.  
-     - Testing the program using automation equipment for its reliability.  
-     - Troubleshooting any faults in the system.  
-     - Supervising the installation of PLC programs.  
-     - Providing guidance and support to the Technicians.  
-     - Offering training to the Technicians and other team members.  
-     - Maintaining the PLC programs.  
-     - Working in coordination with Engineering and Production team.
+     - Ensuring the roll-out of new test methods and tools for the next generation across testing levels as well as test domains
+     - Responsible for implementation and adoption of test automation and test evaluation scripts for pilot and application projects
+     - Ensuring the successful roll-out and continuous optimization of current and new test scripting methods
+     - Full validation and documentation of test automation and test evaluation scripts
+     - Development of smart validation strategies for test evaluation and test automation scripts
+     - Interface to central engineering, product lines, base projects, and test community worldwide on test development, test methods and test tool chain. 
+    
 #### 2. [PT. Panasonic Industrial Devices](https://panasonic.jp/) | Maintenance Supervisor - Coil Automotive | Batam `April'2022 - 2023`
      - Leading, driving and developing skills Maintenance team. 
      - Prepare weekly maintenance schedules and allocate work. 
