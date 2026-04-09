@@ -22,20 +22,20 @@
 
 ## Work Experience:
 #### 1. [Continental Automotive Hungary Kft.](https://www.continental.com/hu-hu/) | Test Automation[ | Budapest `April'2023 - Present`
-   - Utilize Industrial Automation and Digital Twin technologies for simulation and validation of testing methods prior to implementation.
-   - Develop test scripts using Oracle Database and Programming(C++,Python).
-   - Ensure seamless integration with MES Control and Setting to support automation testing.
-   - Leverage Lean Six Sigma methodologies to identify and eliminate inefficiencies.
-   - Optimize and Roll Out Test Scripts Continuously
-   - Execute script validation using AOI Camera Inspection and Control.
-   - Maintain accurate and transparent documentation through Production Lean Check techniques.
-   - Utilize Additive Manufacturing and Digital Twin technologies to support innovative validation processes.
-   - Provide data insights using Microsoft Power BI to monitor testing performance.
-   - Coordinate test method development using Value Stream Mapping to identify improvement opportunities.
-   - Integrate testing tools with global systems through MES Control and Setting.
-   - Adjust and configure robotics using Robot Setting and Adjustment to ensure smooth testing operation
-   CONFERENCES :
-   I'm honored to have the opportunity to share innovative ideas at the AI CONVENTION 2024, a conference focused on the advancements in AI. During the "AI for Decision Makers" session, we are bringing together professionals from various fields to exchange insights on how AI can drive informed decision-making, enhance strategic planning and forecasting, and provide valuable insights into AI governance and risk management for organizations.
+      - Utilize Industrial Automation and Digital Twin technologies for simulation and validation of testing methods prior to implementation.
+      - Develop test scripts using Oracle Database and Programming(C++,Python).
+      - Ensure seamless integration with MES Control and Setting to support automation testing.
+      - Leverage Lean Six Sigma methodologies to identify and eliminate inefficiencies.
+      - Optimize and Roll Out Test Scripts Continuously
+      - Execute script validation using AOI Camera Inspection and Control.
+      - Maintain accurate and transparent documentation through Production Lean Check techniques.
+      - Utilize Additive Manufacturing and Digital Twin technologies to support innovative validation processes.
+      - Provide data insights using Microsoft Power BI to monitor testing performance.
+      - Coordinate test method development using Value Stream Mapping to identify improvement opportunities.
+      - Integrate testing tools with global systems through MES Control and Setting.
+      - Adjust and configure robotics using Robot Setting and Adjustment to ensure smooth testing operation
+      CONFERENCES :
+      I'm honored to have the opportunity to share innovative ideas at the AI CONVENTION 2024, a conference focused on the advancements in AI. During the "AI for Decision Makers" session, we are bringing together professionals from various fields to exchange insights on how AI can drive informed decision-making, enhance strategic planning and forecasting, and provide valuable insights into AI governance and risk management for organizations.
     
 #### 2. [Panasonic Industrial Devices](https://panasonic.jp/) | Maintenance Supervisor - Coil Automotive | Batam `April'2022 - 2023`
      - Leading, driving and developing skills Maintenance team. 
