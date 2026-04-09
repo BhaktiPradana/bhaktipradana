@@ -10,6 +10,8 @@
 
 ## Education:
 #### 1. [BINUS UNIVERSITY](https://binus.ac.id/) | Master Engineering - Industrial Engineering | Jakarta `2023-2025`
+   - Organization AIESEC, Digistar Club by Telkom Indonesia
+   - Publication : https://doi.org/10.14716/ijtech.v16i6.7557
 
 #### 2. [State Polytechnic of Malang](https://polinema.ac.id) | Bachelor of Electrical Engineering | Malang `2016-2020`
    - Chairman of Student Representative Council 
@@ -20,14 +22,22 @@
 
 ## Work Experience:
 #### 1. [Continental Automotive Hungary Kft.](https://www.continental.com/hu-hu/) | Test Automation[ | Budapest `April'2023 - Present`
-     - Ensuring the roll-out of new test methods and tools for the next generation across testing levels as well as test domains
-     - Responsible for implementation and adoption of test automation and test evaluation scripts for pilot and application projects
-     - Ensuring the successful roll-out and continuous optimization of current and new test scripting methods
-     - Full validation and documentation of test automation and test evaluation scripts
-     - Development of smart validation strategies for test evaluation and test automation scripts
-     - Interface to central engineering, product lines, base projects, and test community worldwide on test development, test methods and test tool chain. 
+   - Utilize Industrial Automation and Digital Twin technologies for simulation and validation of testing methods prior to implementation.
+   - Develop test scripts using Oracle Database and Programming(C++,Python).
+   - Ensure seamless integration with MES Control and Setting to support automation testing.
+   - Leverage Lean Six Sigma methodologies to identify and eliminate inefficiencies.
+   - Optimize and Roll Out Test Scripts Continuously
+   - Execute script validation using AOI Camera Inspection and Control.
+   - Maintain accurate and transparent documentation through Production Lean Check techniques.
+   - Utilize Additive Manufacturing and Digital Twin technologies to support innovative validation processes.
+   - Provide data insights using Microsoft Power BI to monitor testing performance.
+   - Coordinate test method development using Value Stream Mapping to identify improvement opportunities.
+   - Integrate testing tools with global systems through MES Control and Setting.
+   - Adjust and configure robotics using Robot Setting and Adjustment to ensure smooth testing operation
+   CONFERENCES :
+   I'm honored to have the opportunity to share innovative ideas at the AI CONVENTION 2024, a conference focused on the advancements in AI. During the "AI for Decision Makers" session, we are bringing together professionals from various fields to exchange insights on how AI can drive informed decision-making, enhance strategic planning and forecasting, and provide valuable insights into AI governance and risk management for organizations.
     
-#### 2. [PT. Panasonic Industrial Devices](https://panasonic.jp/) | Maintenance Supervisor - Coil Automotive | Batam `April'2022 - 2023`
+#### 2. [Panasonic Industrial Devices](https://panasonic.jp/) | Maintenance Supervisor - Coil Automotive | Batam `April'2022 - 2023`
      - Leading, driving and developing skills Maintenance team. 
      - Prepare weekly maintenance schedules and allocate work. 
      - Handles discipline and termination of employees as needed and in accordance with company policy 
@@ -38,7 +48,7 @@
      - Perform to check and verify evidence machine data checksheet, measure machine capabilities (CPK), ensure the machine operates according to specifications,
        correlation data of machine Auto Electrical Inspection, take data, and prepare product sample.
      - Ensuring that machinery, systems, infrastructure, and equipment run optimally with minimal downtime
-#### 3. [PT. Dynacast International](https://www.dynacast.com/en) | Process Improvement Engineer | Batam `April'2021-2022`
+#### 3. [Dynacast International](https://www.dynacast.com/en) | Process Improvement Engineer | Batam `April'2021-2022`
      - Conducting research to develop new and improved processes for manufacturing
      - Meeting with production managers to assess existing processes.
      - Take leadership of projects in development, managing all team members assigned to projects to keep them moving forward on schedule.
